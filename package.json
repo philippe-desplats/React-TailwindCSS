@@ -1,0 +1,41 @@
+{
+  "name": "react-tailwindcss",
+  "version": "1.0.3",
+  "private": true,
+  "license": "MIT",
+  "description": "Create React App (CRA) with TailwindCSS",
+  "scripts": {
+    "watch:css": "postcss src/styles/tailwind.src.css -o src/styles/tailwind.css -w",
+    "build:css": "postcss src/styles/tailwind.src.css -o src/styles/tailwind.css",
+    "start": "npm run watch:css & react-scripts start",
+    "build": "npm run build:css && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "autoprefixer": "^9.6.0",
+    "postcss-cli": "^6.1.2",
+    "tailwindcss": "^1.0.3"
+  }
+}
