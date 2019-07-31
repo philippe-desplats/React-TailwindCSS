@@ -1,6 +1,6 @@
 <img src="https://share.redekproject.fr/PACKAGES/REACT-TAILWINDCSS/React-TailwindCSS-Header.png" alt="react boilerplate banner" align="center" />
 
-This project was bootstrapped with [Create React App with TailwindCSS](https://github.com/facebook/create-react-app) and [TailwindCSS](https://tailwindcss.com/) (with [PostCSS](https://postcss.org/)).
+This project was bootstrapped with [Create React App with TailwindCSS](https://github.com/facebook/create-react-app), [TailwindCSS](https://tailwindcss.com/) and [TypeScript](https://www.typescriptlang.org/) (with [PostCSS](https://postcss.org/)).
 
 ## Installation
 

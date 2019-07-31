@@ -1,6 +1,6 @@
 {
-  "short_name": "React App with TailwindCSS",
-  "name": "Create React App with TailwindCSS Sample",
+  "short_name": "React App with TailwindCSS and Typescript",
+  "name": "Create React App with TailwindCSS and Typescript Sample",
   "icons": [
     {
       "src": "favicon.ico",
