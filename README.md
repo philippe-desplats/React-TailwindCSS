@@ -10,6 +10,10 @@ $ cd React-TailwindCSS
 $ yarn // or npm install
 ```
 
+## TypeScript version
+
+Access the version using TypeScript : [CRA + TailwindCSS + TypeScript](https://github.com/RedekProject/React-TailwindCSS/tree/typescript)
+
 ## Available Scripts
 
 In the project directory, you can run:
